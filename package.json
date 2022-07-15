@@ -1,0 +1,19 @@
+{
+  "name": "api-rest-practice",
+  "version": "1.0.0",
+  "description": "Curso Practico de Consumo de API REST con JS ",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AAGoitia701/api-rest-practice.git"
+  },
+  "author": "@aagoitia701",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AAGoitia701/api-rest-practice/issues"
+  },
+  "homepage": "https://github.com/AAGoitia701/api-rest-practice#readme"
+}
